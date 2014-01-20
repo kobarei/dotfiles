@@ -25,7 +25,6 @@ NeoBundle 'alpaca-tc/alpaca_powertabline'
 NeoBundle 'Lokaltog/powerline'
 NeoBundle 'git://git.wincent.com/command-t.git'
 NeoBundle 'http://svn.macports.org/repository/macports/contrib/mpvim/'
-NeoBundle 'https://bitbucket.org/ns9tks/vim-fuzzyfinder'
 NeoBundle 'sudo.vim'
 
 " Color Scheme
