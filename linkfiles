@@ -1,5 +1,6 @@
 #! /bin/zsh
 
+# set path to dotfiles directory
 DOTFILES_DIR=$HOME/Dropbox/dotfiles
 
 for file in `find "$DOTFILES_DIR" -name '.*' | grep -v "dotfiles/.git$" | perl -nle 'm!dotfiles/(.+)$! and print $1'`; do
